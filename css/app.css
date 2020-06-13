@@ -2,6 +2,11 @@ body {
     height: 100vh;
 }
 
+header {
+    background-color: #111;
+    color: #eee;
+}
+
 .h500p {
     height: 500px;
 }
